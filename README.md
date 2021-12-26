@@ -5,9 +5,9 @@
 
 Task Pool is a to-do-app like application intended to help build forward workflow in daily life base on the idea of [Getting Things Done](https://en.wikipedia.org/wiki/Getting_Things_Done). This app divides all tasks into 7 parts judging from their importance and urgency: 
 
-- Plans: anything that has a change to be done
+- Plans: anything that has a chance to be done
 - Ready to do: things that should be done during a specific period (for example 1 day)
-- Doing now: current actions
+- Doing now: current action
 - Finished Tasks
 - Tasks that need to be further summarized
 - Long-term tasks
@@ -15,7 +15,7 @@ Task Pool is a to-do-app like application intended to help build forward workflo
 
 And by adding tasks into different pool and organizing daily tasks one may have a better perspective on life with "mind like water".
 
-This app is built with React Native and it is a personal practice work for learning React and RN.
+This app is built with React Native and it is a personal practice work for learning RN.
 
 ### PREVIEW
 
