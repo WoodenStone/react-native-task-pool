@@ -15,7 +15,7 @@ Task Pool is a to-do-app like application intended to help build forward workflo
 
 And by adding tasks into different pool and organizing daily tasks one may have a better perspective on life with "mind like water".
 
-This app is built with React Native and it is a personal practice work for learning RN.
+This app is built with React Native and it is a personal practice work for learning RN. It only supports Android at present.
 
 ### PREVIEW
 
